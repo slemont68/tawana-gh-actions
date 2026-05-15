@@ -24,25 +24,6 @@
     "vite": "^3.0.7",
     "vitest": "^0.22.1"
   }
-
-  "name": "tawana-action",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Tests passed\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/slemont68/tawana-gh-actions.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/slemont68/tawana-gh-actions/issues"
-  },
-  "homepage": "https://github.com/slemont68/tawana-gh-actions#readme"
 }
+
 
